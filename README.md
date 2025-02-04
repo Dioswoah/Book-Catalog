@@ -1,7 +1,3 @@
-Here is the full **README.md** content in text format:
-
----
-
 # **Simple Book Catalog (AJAX + PHP + MySQL)**  
 
 This is a **simple book catalog** that allows users to **add, edit, and delete books** using **AJAX** for smooth user interactions. The project follows an **Object-Oriented PHP** approach and does **not** use frameworks like Laravel or CodeIgniter.  
